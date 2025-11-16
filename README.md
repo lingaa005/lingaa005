@@ -66,4 +66,3 @@ A highly motivated developer with a strong desire to tackle new challenges. Know
 
 ---
 
-⚡ Check out my projects and contributions on [GitHub →](https://github.com/lingaa005)
