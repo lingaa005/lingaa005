@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://github.com/lingaa005">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/lingaa005?style=for-the-badge"/>
 </a>
 
 <a href="mailto:kasilingamtvm@gmail.com">
@@ -23,7 +23,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=lingaa005&label=Profile+Views&style=for-the-badge"/>
 
 </div>
 
