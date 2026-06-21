@@ -10,15 +10,15 @@
 
 <br><br>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://lingaa005.github.io/">
 <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Visit_Now-00C853?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/lingaa005">
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kasilingamtvm@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge"/>
 </a>
 
@@ -104,7 +104,7 @@ Mission:
 # 🏆 GitHub Trophy Wall
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&margin-h=15&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lingaa005&theme=algolia&margin-w=15&margin-h=15&column=4"/>
 </p>
 
 ---
@@ -113,9 +113,9 @@ Mission:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lingaa005&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingaa005&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -124,7 +124,7 @@ Mission:
 # 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lingaa005&theme=tokyonight"/>
 </p>
 
 ---
@@ -132,7 +132,7 @@ Mission:
 # 📊 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lingaa005&theme=react-dark"/>
 </p>
 
 ---
@@ -140,7 +140,7 @@ Mission:
 # 🐍 Contribution Snake Animation
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/lingaa005/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
