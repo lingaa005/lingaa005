@@ -139,7 +139,7 @@ Mission:
 # 🐍 Contribution Snake Animation
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/lingaa005/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/lingaa005/lingaa005/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
