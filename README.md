@@ -7,7 +7,6 @@
 <br>
 
 
-<br><br>
 
 <a href="https://lingaa005.github.io/">
 <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Visit_Now-00C853?style=for-the-badge"/>
@@ -134,15 +133,6 @@ Mission:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lingaa005&theme=react-dark"/>
 </p>
 
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/lingaa005/lingaa005/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 # 🚀 Featured Projects
 
@@ -157,10 +147,6 @@ Voice-powered intelligent assistant for automation.
 AI-powered email management and workflow automation.
 
 ---
-
-### 🚁 Drone Analytics Platform
-
-Real-time drone monitoring and analytics using AI.
 
 ---
 
