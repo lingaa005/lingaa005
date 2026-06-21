@@ -6,7 +6,6 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B2NXN6bnN5bGJyaWN4c2R6NGJ3aWhvM2d6NnNwdnM2emV3NzRjMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="850"/>
 
 <br><br>
 
